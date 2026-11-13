@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="主页封面">
+</p>
 
-<!--
-**Drunkard-baifeng/Drunkard-baifeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">你好，我是你的昵称 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  写代码 · 做工具 · 分享有趣的东西
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="我的项目">
+</p>
+
+<details>
+  <summary>点击了解我</summary>
+
+  这里写你的介绍、技术栈、项目等。
+
+</details>
